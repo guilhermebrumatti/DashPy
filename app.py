@@ -15,7 +15,7 @@ app.layout = html.Div(children=[
     html.H1(children='Olá Dashboard'),
 
     html.Div(children='''
-        Dash: A web application framework for you data.    
+        Dash: Uma aplicação web framework para seus dados.    
     '''),
 
     dcc.Graph(
